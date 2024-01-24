@@ -11,3 +11,7 @@ def test_multiply():
 
 def test_divide():
     assert divide(10,5) == 2
+test_add()
+test_subtract()
+test_multiply()
+test_divide()
